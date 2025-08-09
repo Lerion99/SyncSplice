@@ -47,7 +47,7 @@ Clone this repository and install requirements (Tkinter is included with most Py
 ```bash
 git clone https://github.com/Lerion99/syncsplice.git
 cd syncsplice
-chmod +x mashup_gui.py
+chmod +x SyncSplice.py
 ```
 
 ---
@@ -55,7 +55,7 @@ chmod +x mashup_gui.py
 ## 🖥 Usage
 Run the app:
 ```bash
-python3 mashup_gui.py
+python3 SyncSplice.py
 ```
 
 1. **Select a video file** (long source video).
