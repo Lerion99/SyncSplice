@@ -26,3 +26,4 @@ It was used as a way to put narration over a random minecraft parkour clip for T
 ### Install FFmpeg
 On **Arch Linux / SteamOS**:
 ```bash
+sudo pacman -S --needed ffmpeg
