@@ -45,7 +45,7 @@ brew install ffmpeg
 Clone this repository and install requirements (Tkinter is included with most Python installations):
 
 ```bash
-git clone https://github.com/yourusername/syncsplice.git
+git clone https://github.com/Lerion99/syncsplice.git
 cd syncsplice
 chmod +x mashup_gui.py
 ```
